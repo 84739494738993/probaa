@@ -1,0 +1,346 @@
+
+ .recl:after{
+    transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+    opacity: 0;
+     content: 'район'; 
+    font-family:'fontAwesome';
+    font-size: 30px;
+    margin-left: 8px;
+    }
+    .recl:hover{color: rgb(255, 0, 170);}
+    .recl:hover::after{
+        transition: opacity .25s, transform .5s ;
+        transform: rotate(0) translateX(0) translateY(0);
+        opacity:10;
+       
+    } 
+
+
+ .rader:after{
+        transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+        opacity: 0;
+         content: 'НАКЛАДНАЯ!!!'; 
+        font-family:'fontAwesome';
+        font-size: 30px;
+        margin-left: 8px;
+        }
+        .rader:hover{color: rgb(255, 0, 170);}
+        .rader:hover::after{
+            transition: opacity .25s, transform .5s ;
+            transform: rotate(0) translateX(0) translateY(0);
+            opacity:10;
+        }
+
+        
+.recl2:after{
+    transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+    opacity: 0;
+     content: 'большинство!!!'; 
+
+    font-family:'fontAwesome';
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 8px;
+    }
+    .recl2:hover{color: rgb(255, 0, 170);}
+    .recl2:hover::after{
+        transition: opacity .25s, transform .5s ;
+        transform: rotate(0) translateX(0) translateY(0);
+        opacity:10;
+    }
+
+    .recl3:after{
+        transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+        opacity: 0;
+         content: 'задумчивый!!!'; 
+
+        font-family:'fontAwesome';
+        font-size: 30px;
+        display: inline-block;
+        margin-left: 8px;
+        }
+        .recl3:hover{color: rgb(255, 0, 170);}
+        .recl3:hover::after{
+            transition: opacity .25s, transform .5s ;
+            transform: rotate(0) translateX(0) translateY(0);
+            opacity:10;
+        }
+
+
+        .recl4:after{
+            transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+            opacity: 0;
+             content: 'ценить!!!'; 
+
+            font-family:'fontAwesome';
+            font-size: 30px;
+            display: inline-block;
+            margin-left: 8px;
+            }
+            .recl4:hover{color: rgb(255, 0, 170);}
+            .recl4:hover::after{
+                transition: opacity .25s, transform .5s ;
+                transform: rotate(0) translateX(0) translateY(0);
+                opacity:10;
+            }
+
+            .recl5:after{
+                transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                opacity: 0;
+                 content: 'ЯМОЧКИ НА ЩЕКАХ!!!'; 
+
+                font-family:'fontAwesome';
+                font-size: 30px;
+                display: inline-block;
+                margin-left: 8px;
+                }
+                .recl5:hover{color: rgb(255, 0, 170);}
+                .recl5:hover::after{
+                    transition: opacity .25s, transform .5s ;
+                    transform: rotate(0) translateX(0) translateY(0);
+                    opacity:10;
+                }
+
+
+                .recl6:after{
+                    transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                    opacity: 0;
+                     content: 'синяк!!!'; 
+
+                    font-family:'fontAwesome';
+                    font-size: 30px;
+                    display: inline-block;
+                    margin-left: 8px;
+                    }
+                    .recl6:hover{color: rgb(255, 0, 170);}
+                    .recl6:hover::after{
+                        transition: opacity .25s, transform .5s ;
+                        transform: rotate(0) translateX(0) translateY(0);
+                        opacity:10;
+                    }
+
+                    .recl7:after{
+                        transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                        opacity: 0;
+                         content: 'быть предателем!!!'; 
+
+                        font-family:'fontAwesome';
+                        font-size: 30px;
+                        display: inline-block;
+                        margin-left: 8px;
+                        }
+                        .recl7:hover{color: rgb(255, 0, 170);}
+                        .recl7:hover::after{
+                            transition: opacity .25s, transform .5s ;
+                            transform: rotate(0) translateX(0) translateY(0);
+                            opacity:10;
+                        }
+
+                        .recl8:after{
+                            transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                            opacity: 0;
+                             content: 'быть злым / взбешённым!!!'; 
+
+                            font-family:'fontAwesome';
+                            font-size: 30px;
+                            display: inline-block;
+                            margin-left: 8px;
+                            }
+                            .recl8:hover{color: rgb(255, 0, 170);}
+                            .recl8:hover::after{
+                                transition: opacity .25s, transform .5s ;
+                                transform: rotate(0) translateX(0) translateY(0);
+                                opacity:10;
+                            }
+
+                            .recl9:after{
+                                transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                opacity: 0;
+                                 content: 'потреблять!!!'; 
+
+                                font-family:'fontAwesome';
+                                font-size: 30px;
+                                display: inline-block;
+                                margin-left: 8px;
+                                }
+                                .recl9:hover{color: rgb(255, 0, 170);}
+                                .recl9:hover::after{
+                                    transition: opacity .25s, transform .5s ;
+                                    transform: rotate(0) translateX(0) translateY(0);
+                                    opacity:10;
+                                }
+
+                                .recl10:after{
+                                    transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                    opacity: 0;
+                                     content: 'Infiniti!!!'; 
+                                    position:absolute;
+                                    font-family:'fontAwesome';
+                                    font-size: 30px;
+                                    display: inline-block;
+                                    margin-left: 8px;
+                                    }
+                                    .recl10:hover{color: rgb(255, 0, 170);}
+                                    .recl10:hover::after{
+                                        transition: opacity .25s, transform .5s ;
+                                        transform: rotate(0) translateX(0) translateY(0);
+                                        opacity:10;
+                                    }
+
+                                    .recl11:after{
+                                        transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                        opacity: 0;
+                                         content: 'Mercedes!!!'; 
+                                        position:absolute;
+                                        font-family:'fontAwesome';
+                                        font-size: 30px;
+                                        display: inline-block;
+                                        margin-left: 8px;
+                                        }
+                                        .recl11:hover{color: rgb(255, 0, 170);}
+                                        .recl11:hover::after{
+                                            transition: opacity .25s, transform .5s ;
+                                            transform: rotate(0) translateX(0) translateY(0);
+                                            opacity:10;
+                                        }
+
+                                        .recl12:after{
+                                            transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                            opacity: 0;
+                                             content: 'Maskwich!!!'; 
+                                            position:absolute;
+                                            font-family:'fontAwesome';
+                                            font-size: 30px;
+                                            display: inline-block;
+                                            margin-left: 8px;
+                                            }
+                                            .recl12:hover{color: rgb(255, 0, 170);}
+                                            .recl12:hover::after{
+                                                transition: opacity .25s, transform .5s ;
+                                                transform: rotate(0) translateX(0) translateY(0);
+                                                opacity:10;
+                                            }
+
+                                            .recl13:after{
+                                                transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                                opacity: 0;
+                                                 content: 'Scion!!!'; 
+                                                position:absolute;
+                                                font-family:'fontAwesome';
+                                                font-size: 30px;
+                                                display: inline-block;
+                                                margin-left: 8px;
+                                                }
+                                                .recl13:hover{color: rgb(255, 0, 170);}
+                                                .recl13:hover::after{
+                                                    transition: opacity .25s, transform .5s ;
+                                                    transform: rotate(0) translateX(0) translateY(0);
+                                                    opacity:10;
+                                                }
+
+                                                .recl14:after{
+                                                    transform: rotate(-90deg) translateX(-1em) translateY(-1em);
+                                                    opacity: 0;
+                                                     content: 'Модельный рядТагАЗ!!!'; 
+                                                    position:absolute;
+                                                    font-family:'fontAwesome';
+                                                    font-size: 30px;
+                                                    
+                                                    margin-left: 8px;
+                                                    }
+                                                    .recl14:hover{color: rgb(255, 0, 170);}
+                                                    .recl14:hover::after{
+                                                        transition: opacity .25s, transform .5s ;
+                                                        transform: rotate(0) translateX(0) translateY(0);
+                                                        opacity:10;
+                                                    }
+
+
+
+
+
+                                                    body {
+                                                        margin: 0;
+                                                        padding: 0;
+                                                        background: #ccc;
+                                                        }
+                                                        
+                                                        .performan_courtesy ul {
+                                                        list-style: none;
+                                                        background-color: #444;
+                                                        text-align: center;
+                                                        padding: 0;
+                                                        margin: 0;
+                                                        }
+                                                        
+                                                        .performan_courtesy li {
+                                                        font-family: 'Oswald', sans-serif;
+                                                        font-size: 1.2em;
+                                                        line-height: 40px;
+                                                        text-align: left;
+                                                        }
+                                                        
+                                                        .performan_courtesy a {
+                                                        text-decoration: none;
+                                                        color: #fff;
+                                                        display: block;
+                                                        padding-left: 15px;
+                                                        border-bottom: 1px solid #888;
+                                                        transition: .3s background-color;
+                                                        }
+                                                        
+                                                        .performan_courtesy a:hover {
+                                                        background-color: #005f5f;
+                                                        }
+                                                        
+                                                        .performan_courtesy a.active {
+                                                        background-color: #aaa;
+                                                        color: #444;
+                                                        cursor: default;
+                                                        }
+                                                        
+                                                        /* Sub Menus */
+                                                        .performan_courtesy li li {
+                                                        font-size: .8em;
+                                                        }
+                                                        
+                                                        @media screen and (min-width: 650px) {
+                                                        .performan_courtesy li {
+                                                        width: 130px;
+                                                        border-bottom: none;
+                                                        height: 50px;
+                                                        line-height: 50px;
+                                                        font-size: 1.4em;
+                                                        display: inline-block;
+                                                        margin-right: -4px;
+                                                        }
+                                                        
+                                                        .performan_courtesy a {
+                                                        border-bottom: none;
+                                                        }
+                                                        
+                                                        .performan_courtesy > ul > li {
+                                                        text-align: center;
+                                                        }
+                                                        
+                                                        .performan_courtesy > ul > li > a {
+                                                        padding-left: 0;
+                                                        }
+                                                        
+                                                        /* Sub Menus */
+                                                        .performan_courtesy li ul {
+                                                        position: absolute;
+                                                        display: none;
+                                                        width: inherit;
+                                                        }
+                                                        
+                                                        .performan_courtesy li:hover ul {
+                                                        display: block;
+                                                        }
+                                                        
+                                                        .performan_courtesy li ul li {
+                                                        display: block;
+                                                        }
+                                                        }
+                                                        
+                                                        
